@@ -1,0 +1,9 @@
+x_metric,y_metric,pearson_r,spearman_r,n
+summary_chain_pair_pae_cross_chain_mean,binding_interface_dG_A_B_mean,0.05417996280764189,-0.17272727272727273,11
+summary_chain_pair_pae_cross_chain_mean,summary_iptm,-0.9495622798777898,-0.908685272304674,11
+summary_iptm,binding_interface_dG_A_B_mean,-0.041514074261990754,0.23744539778815602,11
+summary_ptm,binding_interface_delta_sasa_A_B_mean,-0.2226255262506924,-0.17351779069134476,11
+binding_interface_dG_A_B_mean,binding_interface_delta_sasa_A_B_mean,-0.9060628909613205,-0.9272727272727272,11
+binding_interface_hbonds_A_B_mean,binding_interface_total_hbond_E_A_B_mean,-0.9741500900420482,-0.9181818181818182,11
+rosetta_total_score_mean,binding_interface_dG_A_B_mean,0.6133065458370506,0.7,11
+rosetta_fa_atr_mean,binding_interface_packstat_A_B_mean,0.2420334330641124,0.06363636363636363,11

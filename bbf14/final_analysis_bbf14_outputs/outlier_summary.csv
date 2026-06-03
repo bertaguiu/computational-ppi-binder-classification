@@ -1,0 +1,12 @@
+DesignName,iqr_outlier_metric_count,max_abs_robust_z,flagged_outlier
+Complex8,2,3.685495110609446,True
+Complex5,1,16.877163043478262,True
+Complex4,0,11.730434782608697,True
+Complex10,0,6.979608695652174,True
+Complex1,0,3.0303578126438007,False
+Complex9,0,2.1078105528202253,False
+Complex11,0,1.9501847826086958,False
+Complex3,0,1.4506305718665875,False
+Complex2,0,1.235587460464615,False
+Complex7,0,1.1803750000000013,False
+Complex6,0,1.0121841624757537,False

@@ -1,0 +1,12 @@
+Target,DesignName,Binding,PredictedClass,PredictedProbability_Binder,CorrectPrediction
+BBF-14,Complex1,0,0,0.5,True
+BBF-14,Complex2,0,0,0.5,True
+BBF-14,Complex3,0,0,0.5,True
+BBF-14,Complex4,0,0,0.5,True
+BBF-14,Complex5,0,0,0.5,True
+BBF-14,Complex6,1,0,0.5,False
+BBF-14,Complex7,1,0,0.5,False
+BBF-14,Complex8,1,0,0.5,False
+BBF-14,Complex9,1,0,0.5,False
+BBF-14,Complex10,1,0,0.5,False
+BBF-14,Complex11,1,0,0.5,False

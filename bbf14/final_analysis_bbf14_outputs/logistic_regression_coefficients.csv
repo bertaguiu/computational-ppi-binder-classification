@@ -1,0 +1,15 @@
+Metric,Coefficient_mean,Coefficient_std,AbsCoefficient_mean
+ranking_score,0.0,0.0,0.0
+summary_iptm,0.0,0.0,0.0
+summary_ptm,0.0,0.0,0.0
+summary_ranking_score,0.0,0.0,0.0
+summary_chain_pair_pae_cross_chain_mean,0.0,0.0,0.0
+rosetta_total_score_mean,0.0,0.0,0.0
+rosetta_fa_atr_mean,0.0,0.0,0.0
+rosetta_fa_elec_mean,0.0,0.0,0.0
+binding_interface_dG_A_B_mean,0.0,0.0,0.0
+binding_interface_delta_sasa_A_B_mean,0.0,0.0,0.0
+binding_interface_packstat_A_B_mean,0.0,0.0,0.0
+binding_interface_hbonds_A_B_mean,0.0,0.0,0.0
+binding_interface_sc_A_B_mean,0.0,0.0,0.0
+binding_interface_total_hbond_E_A_B_mean,0.0,0.0,0.0

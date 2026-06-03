@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1,auc,best_c,penalty,permutation_score,permutation_pvalue
+0.45454545454545453,0.0,0.0,0.0,0.5,0.001,l1,0.45454545454545453,1.0
