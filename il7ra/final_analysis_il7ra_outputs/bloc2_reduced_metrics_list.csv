@@ -1,0 +1,15 @@
+reduced_metric
+summary_iptm
+summary_ptm
+summary_fraction_disordered
+binding_interface_dG_A_B_mean
+binding_interface_packstat_A_B_mean
+binding_interface_hbonds_A_B_mean
+binding_interface_sc_A_B_mean
+binding_interface_delta_hbond_unsat_A_B_mean
+rosetta_total_score_mean
+rosetta_p_aa_pp_mean
+rosetta_pro_close_mean
+rosetta_hbond_lr_bb_mean
+rosetta_fa_elec_mean
+rosetta_fa_rep_mean
